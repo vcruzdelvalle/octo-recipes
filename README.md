@@ -1,6 +1,6 @@
 # Recipes
 
-A place to render family recipes: https://githubschool.github.io/recipes
+A place to render family recipes: http://githubteacher.github.io/octo-recipes/
 
 ## Contributing
 - Fork Repository
