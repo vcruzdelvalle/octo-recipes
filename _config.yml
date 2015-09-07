@@ -2,8 +2,8 @@
 title: Family Recipes
 email: training@github.com
 description:  A place for all your recipe needs!
-baseurl: "/recipes" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
+baseurl: "/octo-recipes" # the subpath of your site, e.g. /blog/
+url: "http://http://githubteacher.github.io" # the base hostname & protocol for your site
 twitter_username: githubteacher
 github_username:  githubteacher
 
