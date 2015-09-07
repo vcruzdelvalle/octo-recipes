@@ -4,8 +4,8 @@ email: training@github.com
 description:  A place for all your recipe needs!
 baseurl: "/recipes" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: githubtraining
-github_username:  githubschool
+twitter_username: githubteacher
+github_username:  githubteacher
 
 # Build settings
 markdown: kramdown
