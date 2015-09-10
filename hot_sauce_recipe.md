@@ -7,8 +7,3 @@
 1. 1 teaspoon vegetable oil
 1. 2 cups water
 1. 1 cup distilled white vinegar
-
-
-!(Scoville Chile Heat Unit)[https://ybertaud9.files.wordpress.com/2012/07/chili-chart.jpg?w=529]
-
-
